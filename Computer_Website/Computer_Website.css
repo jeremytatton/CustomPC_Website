@@ -1,0 +1,79 @@
+.navbar {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    border-radius: 0;
+}
+
+body {
+  background-color: #c0c0c0;
+}
+
+div.col-sm-4 {
+    margin-top: 30px;
+}
+
+div.panel-body{
+  margin: 0px;
+  background-color: white;
+}
+
+div.panel-heading {
+  background-color: black;
+}
+
+.panel-footer{
+  background-color: black;
+  color: white;
+}
+
+div.pager {
+  margin-top: 40px;
+}
+
+.row {
+  margin-top: 0px;
+
+}
+
+.myCarousel {
+  margin-bottom: 20px;
+}
+
+.panel-panel-primary {
+  background-color: black;
+  color: white;
+}
+
+.jumbotron {
+  margin-bottom: 0px;
+  padding: 0;
+  background-color: #c0c0c0;
+  color: black;
+}
+
+footer {
+  background-color: #f2f2f2;
+  padding: 25px;
+}
+
+.container bg-1 {
+  background-color: white;
+  color: #ffffff;
+  margin-top: 0px;
+
+}
+
+.carousel-inner > .item > img {
+    margin-top: 0;
+    margin-bottom: 0px;
+}
+
+p {
+  margin-top: 30px;
+}
+
+div.form-inline {
+  margin-top: 20px;
+}
